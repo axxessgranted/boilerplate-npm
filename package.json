@@ -1,6 +1,7 @@
 {
   "author": "Grant Kantor",
   "name": "fcc-learn-npm-package-json",
+  "description": "A project to learn backend development with Node.js",
   "dependencies": {
     "express": "^4.14.0"
   },
